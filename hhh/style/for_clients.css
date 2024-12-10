@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background: #2c2c97;
+    color: white;
+} 
+header{
+    display: flex;
+    justify-content: center;
+    background: #2f2fa2;
+}
+.for_clients{
+    color: #f64c72;
+    font-size: 22px;
+}
+header a{
+    margin: 2%;
+    text-decoration: none;
+    color: white;
+}
+main{
+    background: #2f2fa2;
+    -webkit-box-shadow: 0px 29px 56px 26px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 29px 56px 26px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 29px 56px 26px rgba(0, 0, 0, 0.2);
+}
+section{
+    margin: auto;
+    width: 80%;
+}
+.form-container h3{
+    margin: auto;
+    width: 30%;
+}
+.form-container {
+    background: #2e2ea3;
+    width: 60%;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.253);
+}
+.form-container input, .form-container textarea {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    background: #F1A93B;
+}
+.form-container label{
+    margin-left: 10%;
+}
+select{
+    background: #F1A93B;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    cursor: pointer;
+}
+.form-container button {
+    margin: 2% 0 0 10%;
+    width: 200px;
+    background: white;
+    padding: 8px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+h2{
+    margin: 2% auto;
+    width: 25%;
+}
+h3{
+    font-size: 24px;
+}
+li{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
