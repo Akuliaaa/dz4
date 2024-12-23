@@ -4,78 +4,77 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>for clients</title>
+    <title>О ПОКУПКЕ ПРОДУКТА</title>
     <link rel="stylesheet" href="style/for_clients.css">
 </head>
 <body>
-    <header>
+<header>
         <a class="logo" href="index.php">IT TECHNIC</a>
-        <a class="news" href="news.php">NEWS</a>
-        <a class="about_us"href="about_us.php">ABOUT US</a>
-        <a href="info.php">ABOUT PRODUCT</a>
-        <a href="history.php">HISTORY PRODUCT</a>
-        <a class="contacts" href="contacts.php">CONTACTS</a>
-        <a class="for_clients" href="for_clients.php">ABOUT BUYING A PRODUCT</a>
+        <a class="news" href="news.php">НОВОСТИ</a>
+        <a class="about_us"href="about_us.php">О НАС</a>
+        <a class="info"href="info.php">О ПРОДУКТЕ</a>
+        <a class="history"href="history.php">ИСТОРИЯ ПРОДУКТА</a>
+        <a class="contacts" href="contacts.php">КОНТАКТЫ</a>
+        <a class="for_clients" href="for_clients.php">О ПОКУПКЕ ПРОДУКТА</a>
     </header>
 
     <section class="content">
-        <h2>Sign up for courses at IT TECHNIC</h2>
+        <h2>Запишитесь на курсы в IT TECHNIC</h2>
 
-        <p>Sign up for courses at IT TECHNIC
-        In our IT TECHNIC Educational and leisure center, we offer a wide range of courses that will help students develop important skills in various fields — from programming and robotics to creativity and sciences. Our courses are designed for children of all ages and levels of training and will help you unlock your child's potential.</p>
+        <p>Запишитесь на курсы в IT TECHNIC В нашем образовательно-досуговом центре IT TECHNIC мы предлагаем широкий спектр курсов, которые помогут ученикам развить важные навыки в различных областях — от программирования и робототехники до творчества и наук. Наши курсы рассчитаны на детей всех возрастов и уровней подготовки и помогут вам раскрыть потенциал вашего ребенка.</p>
         <br>
-        <h3>How to enroll in a course:</h3>
+        <h3>Как записаться на курс::</h3>
         <ol>
-            <li>Choose a course 
-                <p>Check out our courses and choose the one that suits your child's interests. Each course is accompanied by a detailed description so that you can make an informed decision.</p>
+            <li>Выберите курс
+                <p>Ознакомьтесь с нашими курсами и выберите тот, который соответствует интересам вашего ребенка. Каждый курс сопровождается подробным описанием, чтобы вы могли принять обоснованное решение.</p>
             </li>
             <br>
-            <li>Add the course to the cart
-                <p>Click the "Sign up" button and continue to select other courses or proceed to registration.</p>
+            <li>Добавить курс в корзину
+                <p>Нажмите кнопку «Зарегистрироваться» и продолжите выбор других курсов или перейдите к регистрации.</p>
             </li>
             <br>
-            <li>Registration of the record
-                <p>Go to the shopping cart, check the selected courses and fill in the required registration details.</p>
+            <li>Регистрация записи
+                <p>Перейдите в корзину, проверьте выбранные курсы и заполните необходимые регистрационные данные.</p>
             </li>
             <br>
-            <li>Confirmation of the recording
-                <p>After making an appointment, we will contact you to confirm and clarify all the details. You will receive a notification confirming your course registration and class time.</p>
+            <li>Подтверждение записи
+                <p>После записи на прием мы свяжемся с вами для подтверждения и уточнения всех деталей. Вы получите уведомление с подтверждением регистрации на курс и временем занятий.</p>
             </li>
         </ol>
     <br>
-    <h3>Payment methods:</h3>
+    <h3>Способы оплаты:</h3>
     <ul>
-        <li>Bank card</li>
-        <li>Electronic wallets</li>
-        <li>Cash payment (for customers visiting the center)</li>
+        <li>Банковская карта</li>
+        <li>Электронные кошельки</li>
+        <li>Наличный расчет (для клиентов, посещающих центр)</li>
     </ul>
     <br>
-    <h3>Feedback:</h3>
-    <p>If you have any questions or difficulties when enrolling in the course, do not hesitate to contact us. We are always ready to help and provide additional information.</p>
+    <h3>Обратная связь:</h3>
+    <p>Если у вас возникли вопросы или трудности при записи на курс, не стесняйтесь обращаться к нам. Мы всегда готовы помочь и предоставить дополнительную информацию.</p>
     <br> <br>
-    <h3>Enrolling in courses at IT TECHNIC is a great opportunity for your child to develop and gain new knowledge in an exciting and supportive atmosphere.</h3>
+    <h3>Зачисление на курсы в IT TECHNIC — это прекрасная возможность для вашего ребенка развиваться и получать новые знания в увлекательной и поддерживающей атмосфере.</h3>
 
     <div class="form-container">
-        <h3>Sign up for a course:</h3>
+        <h3>Записаться на курс:</h3>
         <form action="">
-            <label for="name">Name:</label>
+            <label for="name">Имя:</label>
             <input type="text" name="name"required>
 
-            <label for="email">Email:</label>
+            <label for="email">Электронная почта:</label>
             <input type="email" name="email" required>
 
-            <label for="course">Choose a course:</label>
+            <label for="course">Выберите курс:</label>
             <select required>
-                <option value="programming">Programming</option>
-                <option value="robotics">Robotics</option>
-                <option value="creativity">Creation</option>
-                <option value="science">Sciences</option>
+                <option value="programming">Программирование</option>
+                <option value="robotics">Робототехника</option>
+                <option value="creativity">Создание</option>
+                <option value="science">Науки</option>
             </select>
             <br> <br>
-            <label for="message">Comment:</label>
+            <label for="message">Комментарий:</label>
             <textarea name="message" rows="4" placeholder="Your wishes or questions..."></textarea>
 
-            <button type="submit">Sing up</button>
+            <button type="submit">Зарегистрироваться</button>
         </form>
     </div>
 </section>

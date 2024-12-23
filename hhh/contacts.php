@@ -4,50 +4,50 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>contacts</title>
+    <title>КОНТАКТЫ</title>
     <link rel="stylesheet" href="style/contacts.css">
 </head>
 <body>
-    <header>
+<header>
         <a class="logo" href="index.php">IT TECHNIC</a>
-        <a class="news" href="news.php">NEWS</a>
-        <a class="about_us"href="about_us.php">ABOUT US</a>
-        <a href="info.php">ABOUT PRODUCT</a>
-        <a href="history.php">HISTORY PRODUCT</a>
-        <a class="contacts" href="contacts.php">CONTACTS</a>
-        <a href="for_clients.php">ABOUT BUYING A PRODUCT</a>
+        <a class="news" href="news.php">НОВОСТИ</a>
+        <a class="about_us"href="about_us.php">О НАС</a>
+        <a class="info"href="info.php">О ПРОДУКТЕ</a>
+        <a class="history"href="history.php">ИСТОРИЯ ПРОДУКТА</a>
+        <a class="contacts" href="contacts.php">КОНТАКТЫ</a>
+        <a class="for_clients" href="for_clients.php">О ПОКУПКЕ ПРОДУКТА</a>
     </header>
     <main>
-        <h1 class="top-text">Contacts</h1>
+        <h1 class="top-text">Контакты</h1>
         <div class="box">
             <img src="img/decor-photo12.png" alt="">
-            <p>Contacts of the IT TECHNIC educational and leisure center
-            <br>
-            We are always happy to answer your questions and provide you with the necessary information. If you have any suggestions, suggestions or would like to enroll in our courses and events, please do not hesitate to contact us.
+            <p>Контакты образовательно-досугового центра IT TECHNIC
             <br> <br>
-            Address:
+            Мы всегда рады ответить на ваши вопросы и предоставить вам необходимую информацию. Если у вас есть предложения, пожелания или вы хотите записаться на наши курсы и мероприятия, не стесняйтесь обращаться к нам.
+            <br> <br>
+            Адресс:
             <br>
-            Moscow, Staropetrovsky proezd, 1s2
+            г. Москва, Старопетровский проезд, д. 1, стр. 2
             <br>
-            Phone:
+            Телефон:
             <br>
             +7 (977) 776-60-35
             <br>
-            Email address:
+            Адресс эл-почты:
             <br>
             info@ittechnic.com
             <br> <br>
-            Opening hours:
+            Часы работы:
             <br>
-            Monday - Friday: from 12:00 to 21:00 <br>
-            Saturday: from 12:00 to 20:00 <br>
-            Sunday: closed
-            <br>
-            Social Media:
-            <br>
-            Follow us on social media to keep up to date with new products, events and promotions
+            Понедельник - пятница: с 12:00 до 21:00 <br>
+            Суббота: с 12:00 до 20:00 <br>
+            Воскресенье: выходной
             <br> <br>
-            We are always happy to help you and your children!</p>
+            Социальные сети:
+            <br>
+            Подписывайтесь на нас в социальных сетях, чтобы быть в курсе новинок, событий и акций
+            <br> <br>
+            Мы всегда рады помочь вам и вашим детям!</p>
         </div>
     </main>
 </body>

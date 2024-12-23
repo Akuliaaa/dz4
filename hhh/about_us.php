@@ -4,30 +4,30 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>about_us</title>
+    <title>О НАС</title>
     <link rel="stylesheet" href="style/about_us.css">
 </head>
 <body>
-    <header>
+<header>
         <a class="logo" href="index.php">IT TECHNIC</a>
-        <a class="news" href="news.php">NEWS</a>
-        <a class="about_us"href="about_us.php">ABOUT US</a>
-        <a href="info.php">ABOUT PRODUCT</a>
-        <a href="history.php">HISTORY PRODUCT</a>
-        <a href="contacts.php">CONTACTS</a>
-        <a href="for_clients.php">ABOUT BUYING A PRODUCT</a>
+        <a class="news" href="news.php">НОВОСТИ</a>
+        <a class="about_us"href="about_us.php">О НАС</a>
+        <a href="info.php">О ПРОДУКТЕ</a>
+        <a href="history.php">ИСТОРИЯ ПРОДУКТА</a>
+        <a class="contacts" href="contacts.php">КОНТАКТЫ</a>
+        <a class="for_clients" href="for_clients.php">О ПОКУПКЕ ПРОДУКТА</a>
     </header>
     <main>
         <div class="center_info">
             <div class="text_about_us">
                 <h2>
-                    About Us...
+                    О нас...
                 </h2>
                 <p>
                 <br>
-                    School of programming and robotics for children "IT TECHNIC" is training in coding, new acquaintances and prospects in the world of innovation.
+                Школа программирования и робототехники для детей "IT TECHNIC" - это обучение кодингу, новые знакомства и перспективы в мире инноваций.
                     <br> <br>
-                    We teach children programming, game creation and web design. We show the possibilities of development in the world of high technology.
+                    Мы обучаем детей программированию, созданию игр и веб-дизайну. Мы показываем возможности развития в мире высоких технологий.
                 </p>
             </div>
             <div class="photo_box">
@@ -35,7 +35,7 @@
             </div>
         </div>
             <h1>
-                IT TECHNIC it is...
+                IT TECHNIC это...
             </h1>
         <div class="center_info_1">
             <div>
@@ -43,13 +43,13 @@
             </div>
 
             <div class="text">
-                <p>Distance classes</p>
-                <li>We conduct online courses and online camps.</li>
+                <p>Дистанционные занятия</p>
+                <li>Мы проводим онлайн-курсы и онлайн-лагеря.</li>
             </div>
 
             <div class="text">
-                <p>Full-time training</p>
-                <li>Federal network of 30 branches in Moscow and the Moscow region.</li>
+                <p>Обучение на постоянной основе</p>
+                <li>Федеральная сеть из 30 филиалов в Москве и Московской области.</li>
             </div>
 
             <div>
@@ -60,8 +60,8 @@
                 <img src="img/decor-photo10.png" alt="">
             </div>
             <div class="text">
-                <p>Educational activities under state license</p>
-                <li>An opportunity for you to receive a tax deduction for training expenses.</li>
+                <p>Образовательная деятельность по государственной лицензии</p>
+                <li>Возможность получить налоговый вычет на расходы на обучение.</li>
             </div>
         </div>
     </main>
